@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/virtual-banking-website/static/css/main.7385e6d2.chunk.css",
-    "main.js": "/virtual-banking-website/static/js/main.5d7aef0a.chunk.js",
-    "main.js.map": "/virtual-banking-website/static/js/main.5d7aef0a.chunk.js.map",
-    "runtime-main.js": "/virtual-banking-website/static/js/runtime-main.97b0d49e.js",
-    "runtime-main.js.map": "/virtual-banking-website/static/js/runtime-main.97b0d49e.js.map",
-    "static/js/2.e0de59a1.chunk.js": "/virtual-banking-website/static/js/2.e0de59a1.chunk.js",
-    "static/js/2.e0de59a1.chunk.js.map": "/virtual-banking-website/static/js/2.e0de59a1.chunk.js.map",
-    "index.html": "/virtual-banking-website/index.html",
-    "static/css/main.7385e6d2.chunk.css.map": "/virtual-banking-website/static/css/main.7385e6d2.chunk.css.map",
-    "static/js/2.e0de59a1.chunk.js.LICENSE.txt": "/virtual-banking-website/static/js/2.e0de59a1.chunk.js.LICENSE.txt",
-    "static/media/svg-1.675fea61.svg": "/virtual-banking-website/static/media/svg-1.675fea61.svg",
-    "static/media/svg-2.9ea4c2e8.svg": "/virtual-banking-website/static/media/svg-2.9ea4c2e8.svg",
-    "static/media/svg-3.9f3dd030.svg": "/virtual-banking-website/static/media/svg-3.9f3dd030.svg",
-    "static/media/video.fb9c0da7.mp4": "/virtual-banking-website/static/media/video.fb9c0da7.mp4"
+    "main.css": "/f-website/static/css/main.7385e6d2.chunk.css",
+    "main.js": "/f-website/static/js/main.5d7aef0a.chunk.js",
+    "main.js.map": "/f-website/static/js/main.5d7aef0a.chunk.js.map",
+    "runtime-main.js": "/f-website/static/js/runtime-main.96831c4e.js",
+    "runtime-main.js.map": "/f-website/static/js/runtime-main.96831c4e.js.map",
+    "static/js/2.aa659467.chunk.js": "/f-website/static/js/2.aa659467.chunk.js",
+    "static/js/2.aa659467.chunk.js.map": "/f-website/static/js/2.aa659467.chunk.js.map",
+    "index.html": "/f-website/index.html",
+    "static/css/main.7385e6d2.chunk.css.map": "/f-website/static/css/main.7385e6d2.chunk.css.map",
+    "static/js/2.aa659467.chunk.js.LICENSE.txt": "/f-website/static/js/2.aa659467.chunk.js.LICENSE.txt",
+    "static/media/svg-1.675fea61.svg": "/f-website/static/media/svg-1.675fea61.svg",
+    "static/media/svg-2.9ea4c2e8.svg": "/f-website/static/media/svg-2.9ea4c2e8.svg",
+    "static/media/svg-3.9f3dd030.svg": "/f-website/static/media/svg-3.9f3dd030.svg",
+    "static/media/video.fb9c0da7.mp4": "/f-website/static/media/video.fb9c0da7.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.97b0d49e.js",
-    "static/js/2.e0de59a1.chunk.js",
+    "static/js/runtime-main.96831c4e.js",
+    "static/js/2.aa659467.chunk.js",
     "static/css/main.7385e6d2.chunk.css",
     "static/js/main.5d7aef0a.chunk.js"
   ]
