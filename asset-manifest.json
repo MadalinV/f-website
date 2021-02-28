@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "//madalinv.github.io/virtual-banking-website/static/css/main.7385e6d2.chunk.css",
-    "main.js": "//madalinv.github.io/virtual-banking-website/static/js/main.cb492734.chunk.js",
-    "main.js.map": "//madalinv.github.io/virtual-banking-website/static/js/main.cb492734.chunk.js.map",
-    "runtime-main.js": "//madalinv.github.io/virtual-banking-website/static/js/runtime-main.6d1969b8.js",
-    "runtime-main.js.map": "//madalinv.github.io/virtual-banking-website/static/js/runtime-main.6d1969b8.js.map",
-    "static/js/2.2e561b72.chunk.js": "//madalinv.github.io/virtual-banking-website/static/js/2.2e561b72.chunk.js",
-    "static/js/2.2e561b72.chunk.js.map": "//madalinv.github.io/virtual-banking-website/static/js/2.2e561b72.chunk.js.map",
-    "index.html": "//madalinv.github.io/virtual-banking-website/index.html",
-    "static/css/main.7385e6d2.chunk.css.map": "//madalinv.github.io/virtual-banking-website/static/css/main.7385e6d2.chunk.css.map",
-    "static/js/2.2e561b72.chunk.js.LICENSE.txt": "//madalinv.github.io/virtual-banking-website/static/js/2.2e561b72.chunk.js.LICENSE.txt",
-    "static/media/svg-1.675fea61.svg": "//madalinv.github.io/virtual-banking-website/static/media/svg-1.675fea61.svg",
-    "static/media/svg-2.9ea4c2e8.svg": "//madalinv.github.io/virtual-banking-website/static/media/svg-2.9ea4c2e8.svg",
-    "static/media/svg-3.9f3dd030.svg": "//madalinv.github.io/virtual-banking-website/static/media/svg-3.9f3dd030.svg",
-    "static/media/video.cbc4864e.mp4": "//madalinv.github.io/virtual-banking-website/static/media/video.cbc4864e.mp4"
+    "main.css": "/virtual-banking-website/static/css/main.7385e6d2.chunk.css",
+    "main.js": "/virtual-banking-website/static/js/main.cb492734.chunk.js",
+    "main.js.map": "/virtual-banking-website/static/js/main.cb492734.chunk.js.map",
+    "runtime-main.js": "/virtual-banking-website/static/js/runtime-main.97b0d49e.js",
+    "runtime-main.js.map": "/virtual-banking-website/static/js/runtime-main.97b0d49e.js.map",
+    "static/js/2.e0de59a1.chunk.js": "/virtual-banking-website/static/js/2.e0de59a1.chunk.js",
+    "static/js/2.e0de59a1.chunk.js.map": "/virtual-banking-website/static/js/2.e0de59a1.chunk.js.map",
+    "index.html": "/virtual-banking-website/index.html",
+    "static/css/main.7385e6d2.chunk.css.map": "/virtual-banking-website/static/css/main.7385e6d2.chunk.css.map",
+    "static/js/2.e0de59a1.chunk.js.LICENSE.txt": "/virtual-banking-website/static/js/2.e0de59a1.chunk.js.LICENSE.txt",
+    "static/media/svg-1.675fea61.svg": "/virtual-banking-website/static/media/svg-1.675fea61.svg",
+    "static/media/svg-2.9ea4c2e8.svg": "/virtual-banking-website/static/media/svg-2.9ea4c2e8.svg",
+    "static/media/svg-3.9f3dd030.svg": "/virtual-banking-website/static/media/svg-3.9f3dd030.svg",
+    "static/media/video.cbc4864e.mp4": "/virtual-banking-website/static/media/video.cbc4864e.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d1969b8.js",
-    "static/js/2.2e561b72.chunk.js",
+    "static/js/runtime-main.97b0d49e.js",
+    "static/js/2.e0de59a1.chunk.js",
     "static/css/main.7385e6d2.chunk.css",
     "static/js/main.cb492734.chunk.js"
   ]
